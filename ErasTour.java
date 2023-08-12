@@ -13,5 +13,7 @@ public class ErasTour {
     public Random getTicket() {
         return ticket;
     }
-    Cliente cliente = new cliente
+    //Cliente cliente = new cliente
+
+    
 }
